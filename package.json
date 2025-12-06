@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "three": "^0.181.2",
-    "react-dom": "^19.2.1",
-    "react": "^19.2.1",
+    "react-dom": "^18.3.1",
+    "react": "^18.3.1",
     "gsap": "^3.13.0",
     "framer-motion": "11.0.8"
   },
